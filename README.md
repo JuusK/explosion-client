@@ -1,2 +1,2 @@
-# explosion-client
-Explosion Client
+# Explosion Client 
+Minecraft Client made by JuusK :D
